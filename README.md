@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github.com/CoraPhoenix/CoraPhoenix/blob/main/header.png" alt="banner that says Christopher Brandão">
+
