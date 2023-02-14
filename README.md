@@ -117,12 +117,12 @@ I also love programming, drawing, writing and playing my keyboard. I always seek
 
 <br/>  
 
-<!--
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
+
+<!--## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+<!-- BLOG-POST-LIST:END  
 
 <br/>  
 
