@@ -117,6 +117,7 @@ I also love programming, drawing, writing and playing my keyboard. I always seek
 
 <br/>  
 
+<!--
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
@@ -125,7 +126,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<!--<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  -->
 
