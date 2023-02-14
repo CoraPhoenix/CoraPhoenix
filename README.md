@@ -113,7 +113,7 @@ I also love programming, drawing, writing and playing my keyboard. I always seek
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CoraPhoenix&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CoraPhoenix&theme=synthwave&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
